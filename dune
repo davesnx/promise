@@ -1,1 +1,1 @@
-(dirs src test)
+(dirs :standard \ doc esy.lock lib node_modules)
